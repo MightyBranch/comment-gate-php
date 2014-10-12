@@ -48,4 +48,4 @@ To run the second block instead, just replace the string between `###### IF:` an
 License
 ----
 
-MIT
+[MIT](http://opensource.org/licenses/MIT)
