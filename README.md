@@ -5,7 +5,7 @@ A Comment-based **If Statement** for PHP.
 
 Comment Gate is a simple template to convert comments into **If Statements** in PHP.
 
-You can use it when you are developing something and you want to quickly toggle between 2 blocks of code, while you decide which one you want to keep. Without the need to use an if statement.
+You can use it when you are developing something and you want to quickly toggle between 2 blocks of code (e.g. development vs production), while you decide which one you want to keep. Without the need to use an if statement.
 
 Installation
 -------------
